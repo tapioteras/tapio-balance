@@ -1,6 +1,6 @@
 # tapio-balance
 
-Simple balance game. Work-in-progress version can be tested from here: https://tapioteras.github.io/tapio-balance/
+Simple balance game. Work-in-progress version can be tested from here: https://tapioteras.github.io/tapio-balance/TapioBalanceGame
 - saving high score to browser local storage
 - bundled the game under gh-pages (web assembly/web-gl)
 
